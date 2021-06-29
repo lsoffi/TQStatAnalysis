@@ -1,0 +1,18 @@
+imax 1
+jmax 1 
+kmax 0
+--------------
+shapes * * workspace_m26_2mu2e_2018.root wspace:$PROCESS
+---------------
+bin bin1
+observation -1
+------------------------------
+bin             bin1        bin1      
+process         signal_pdf  CR_pdf        
+process         0           1          
+rate            0.786       1        
+--------------------------------
+
+
+
+
